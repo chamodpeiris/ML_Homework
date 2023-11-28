@@ -1,2 +1,2 @@
 # ML_Homework
-Used to update Digital Transformation tool course works
+Used to updload Digital Transformation tools course works and homeworks
